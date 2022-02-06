@@ -1,3 +1,3 @@
 # personalwebsite
 
-https://github.com/ayishacv/personalwebsite.git
+https://ayishacv.github.io/personalwebsite/
